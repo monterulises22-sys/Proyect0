@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Violencia Digital en las Redes Sociales</title>
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <h1>La Violencia Digital en las Redes Sociales</h1>
+        <p><strong>Alumno:</strong> Axel Ulises Monter Jiménez</p>
+        <p><strong>Grupo:</strong> D</p>
+    </header>
+    <hr>
+
+    <!-- Introducción -->
+    <section>
+        <h2>¿Qué es la violencia digital?</h2>
+        <p>La violencia digital se define como cualquier acción, agresión o acoso que se realiza a través de internet, dispositivos electrónicos o redes sociales con el fin de dañar, intimidar, humillar o controlar a otra persona. A diferencia de la violencia física, puede ocurrir en cualquier momento, llegar a muchas personas rápidamente y dejar huellas difíciles de borrar, afectando la salud emocional y la dignidad de quienes la sufren.</p>
+    </section>
+
+    <!-- Tipos de violencia digital -->
+    <section>
+        <h2>Principales tipos de violencia digital</h2>
+        <ul>
+            <li><strong>Ciberacoso:</strong> Consiste en el envío de mensajes ofensivos, amenazas o burlas constantes hacia una persona, con la intención de hacerle daño o excluirla.</li>
+            <li><strong>Robo y suplantación de identidad:</strong> Ocurre cuando alguien obtiene datos personales o contraseñas para hacerse pasar por otra persona, cometer fraudes o dañar su reputación.</li>
+            <li><strong>Difusión de contenido sin consentimiento:</strong> Es compartir fotos, videos o información privada de alguien sin su autorización, lo cual puede causar daños graves y duraderos.</li>
+            <li><strong>Grooming:</strong> Es la acción de un adulto que se hace pasar por menor de edad para ganarse la confianza de un niño, niña o adolescente con fines inapropiados o abusivos.</li>
+        </ul>
+    </section>
+
+    <!-- Redes Sociales -->
+    <section>
+        <h2>Redes Sociales: Beneficios, Riesgos y Uso Responsable</h2>
+
+        <h3>✅ Beneficios</h3>
+        <p>Son herramientas muy útiles que permiten mantener el contacto con familiares y amigos, compartir ideas, aprender nuevos conocimientos, expresarse libremente y crear comunidades con intereses en común.</p>
+
+        <h3>⚠️ Riesgos</h3>
+        <p>Entre los peligros se encuentran la exposición a contenido violento o inapropiado, la pérdida de privacidad, el contacto con personas malintencionadas, la adicción y convertirse en víctima de violencia digital.</p>
+
+        <h3>💡 Uso responsable</h3>
+        <p>Usar las redes sociales de forma responsable significa respetar a los demás, pensar antes de publicar algo, proteger tus datos personales, no compartir contenido que pueda dañar a otros y denunciar cualquier acto de agresión.</p>
+    </section>
+
+    <!-- Recomendaciones de seguridad -->
+    <section>
+        <h2>Recomendaciones para proteger tu información</h2>
+        <ol>
+            <li>Crea contraseñas seguras que combinen letras, números y símbolos, y no las compartas con nadie.</li>
+            <li>Configura tus cuentas como privadas para que solo tus contactos puedan ver tu información y publicaciones.</li>
+            <li>Nunca compartas datos personales como tu dirección, teléfono, escuela o ubicación en tiempo real.</li>
+            <li>No aceptes solicitudes de amistad ni sigas a personas que no conoces en la vida real.</li>
+            <li>No abras enlaces ni descargues archivos que provengan de mensajes o correos sospechosos.</li>
+        </ol>
+    </section>
+
+    <!-- Recursos Multimedia -->
+    <section>
+        <h2>Recursos de información</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Seguridad_en_internet.svg/640px-Seguridad_en_internet.svg.png" 
+             alt="Imagen sobre seguridad y uso responsable de internet" 
+             width="450">
+        <p>Fuente confiable: <a href="https://www.gob.mx/segob/violencia-digital" target="_blank">Violencia Digital - Gobierno de México</a></p>
+    </section>
+
+    <!-- Conclusión -->
+    <section>
+        <h2>Conclusión</h2>
+        <p>Las redes sociales e internet son herramientas poderosas que nos brindan muchas oportunidades, pero también implican riesgos si no se usan con cuidado. Es fundamental recordar que detrás de cada pantalla hay una persona con sentimientos, por lo que debemos actuar con respeto y empatía. Proteger nuestra privacidad y respetar la de los demás nos ayuda a construir un entorno digital más seguro y positivo para todos. Si alguna vez nos encontramos ante una situación de violencia digital, es importante pedir ayuda a un adulto de confianza o a las autoridades correspondientes.</p>
+    </section>
+
+</body>
+</html>
